@@ -1,2 +1,2 @@
-# data_visualisation_matplotlib_seaborn_ggplot
+# Data Visualisation Matplotlib Seaborn ggplot
 Examples of data visualisation with Matplotlib, Seaborn and ggplot.
